@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "my930BiYfpk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\COLLEGELAB-13\\source\\repos\\OcelotActivity\\OrdersService\\OrdersService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\COLLEGELAB-13\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\COLLEGELAB-13\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
